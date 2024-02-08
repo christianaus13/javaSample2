@@ -9,6 +9,6 @@ String [] names={"ryan","kanari","aus"};
         System.out.println(names[1]);
         System.out.println(names[2]);
         System.out.println(fruits[0]);
-
+        System.out.println("hello");
     }
 }
